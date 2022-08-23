@@ -1,1 +1,1 @@
-Contenido del archivo A
+Contenido del archivo A modificado
